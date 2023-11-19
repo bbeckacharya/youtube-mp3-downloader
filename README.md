@@ -2,7 +2,7 @@
 
 Complete React.js Single component website to download music file (mp3) from any youtube video.
 
-<strong>Live Demo: <a href="https://ytmp3.hari-acharya.com.np">ytmp3.hari-acharya.com.np</a></strong>
+<strong>Live Demo: <a href="https://bibekacharya41.com.np">bibekacharya41.com.np</a></strong>
 
 Some special features of this react application is:<br/>
 -Single Function Component responsible for handeling full rendering/fetching logic.<br/>
